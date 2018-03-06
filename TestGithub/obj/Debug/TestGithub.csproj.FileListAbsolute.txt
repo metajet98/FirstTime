@@ -1,0 +1,9 @@
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\bin\Debug\TestGithub.exe.config
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\obj\Debug\TestGithub.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\obj\Debug\TestGithub.Form1.resources
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\obj\Debug\TestGithub.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\obj\Debug\TestGithub.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\bin\Debug\TestGithub.exe
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\bin\Debug\TestGithub.pdb
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\obj\Debug\TestGithub.exe
+E:\Visual Studio 2015\Projects\TestGithub\TestGithub\obj\Debug\TestGithub.pdb
