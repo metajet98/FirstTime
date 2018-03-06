@@ -24,7 +24,7 @@ namespace TestGithub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Chao the gioi!");
+            MessageBox.Show("Hello World!");
         }
     }
 }
